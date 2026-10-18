@@ -58,7 +58,7 @@ The bytecode operations are:
 ## Project Structure
 
 ```text
-hello-csharp.csproj  .NET 8 console project
+integer-expression-compiler.csproj  .NET 8 console project
 Program.cs           Scanner, parser, compiler, VM, and sample source
 README.md            Project overview and usage
 
